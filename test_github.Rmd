@@ -1,5 +1,5 @@
 ---
-title: "ESM 206/244 GitHub Testing"
+title: "JOSE DIAS ESM 206/244 GitHub Testing"
 output: html_document
 ---
 
